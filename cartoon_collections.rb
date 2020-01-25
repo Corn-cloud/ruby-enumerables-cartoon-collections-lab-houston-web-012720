@@ -9,12 +9,7 @@ dwarves = %w[
 ]
 
 def roll_call_dwarves(dwarves)# code an argument here
-  dwarves.each_with_index do |dwarf, inex|
-    
-    puts "#{dwarf + 1}.#{index}"
-  end
-  # Your code here
-end
+  
 
 
 def summon_captain_planet# code an argument here
